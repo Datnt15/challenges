@@ -6,7 +6,7 @@ The solutions are my own, not official.
 
 ### Dev
 
-1. Typically, create a subfolder for an issue.
+1. Typically, create a subfolder for an issue.  Also label the issue with the company name.
 2. Put the issue content into a README.md
 3. Add a solution file (ex.  solution.go)
 4. Add a test file (ex.  solution_test.go)
